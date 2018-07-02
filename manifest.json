@@ -3,7 +3,7 @@
   "name": "WowBox",
   "icons": [
     {
-      "src":"images/logo.ico",
+      "src":"img/logo.ico",
       "sizes": "128x128",
       "type": "images/ico"
     }
