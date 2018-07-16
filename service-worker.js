@@ -4,12 +4,16 @@ self.addEventListener('install', function(e) {
          return cache.addAll([
             '/',
             '/index.html',
+            '/gender.html',
+            '/past-box.html',
+            '/learn-more.json',
             '/login.html',
             '/css/style.css',
             '/css/bootstrap.min.css',
             '/js/bootstrap.min.js',
             '/js/jquery-3.1.1.min.js',
             '/img/cover.jpg',
+            '/manifest.json',
          ]);
       })
       );
