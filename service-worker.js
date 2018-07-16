@@ -6,7 +6,7 @@ self.addEventListener('install', function(e) {
             '/index.html',
             '/gender.html',
             '/past-box.html',
-            '/learn-more.json',
+            '/learn-more.html',
             '/login.html',
             '/css/style.css',
             '/css/bootstrap.min.css',
