@@ -13,6 +13,7 @@ self.addEventListener('install', function(e) {
             '/js/bootstrap.min.js',
             '/js/jquery-3.1.1.min.js',
             '/img/cover.jpg',
+            '/img/logo.png',   
             '/manifest.json',
          ]);
       })
